@@ -1,0 +1,2 @@
+# Functiontest
+Testing azure functions
